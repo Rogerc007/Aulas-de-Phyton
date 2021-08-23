@@ -1,0 +1,10 @@
+print("----------CADASTRO DE PACIENTE----------")
+
+nome = input("Digite seu nome: ")
+idade = input("Digite sua idade: ")
+peso = input("Digite seu peso: ")
+altura = input("Digite sua altura: ")
+print("Nome: ", nome)
+print("Idade: ", idade)
+print("Peso: ", peso)
+print("Altura: ", altura)
